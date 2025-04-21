@@ -16,11 +16,22 @@ I'm passionate about tech, learning, and building cool things.
 
 ### 📱 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color: #0077B5"/>
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color: #E4405F"/>
+</a>
+<a href="https://www.youtube.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="YouTube" width="40" height="40" style="color: #FF0000"/>
+</a>
+<a href="https://discord.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" width="40" height="40" style="color: #5865F2"/>
+</a>
+
 
 ---
 

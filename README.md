@@ -16,21 +16,26 @@ I'm passionate about tech, learning, and building cool things.
 
 ### 📱 Connect with Me
 
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color: #0077B5"/>
-</a>
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color: #E4405F"/>
-</a>
-<a href="https://www.youtube.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="YouTube" width="40" height="40" style="color: #FF0000"/>
-</a>
-<a href="https://discord.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" width="40" height="40" style="color: #5865F2"/>
-</a>
+### 📱 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ---

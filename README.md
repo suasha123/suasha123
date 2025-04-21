@@ -19,21 +19,14 @@ I'm passionate about tech, learning, and building cool things.
 ### 📱 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/suryaprataps471/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" width="40" height="40"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" height="40"/>
-  </a>
+  
 </p>
 
 

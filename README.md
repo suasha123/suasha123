@@ -6,7 +6,7 @@ I'm passionate about tech, learning, and building cool things.
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: A **Safe Walk**.
+- 🔭 I’m currently working on:  **Safe Walk** - location tracker and safety web application.
 - 💬 Ask me about: **Java, Python, Git**, and anything tech-related
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/)
 - ⚡ Fun fact: **FOR THAT YOU HAVE TO KNOW ME PERSONALLY!!**

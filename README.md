@@ -4,6 +4,8 @@ I'm passionate about tech, learning, and building cool things.
 
 ---
 
+![](https://komarev.com/ghpvc/?username=suasha123)
+
 ### 🚀 About Me
 
 - 🔭 I’m currently working on:  **Safe Walk** - location tracker and safety web application.

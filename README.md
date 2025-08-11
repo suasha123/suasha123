@@ -8,7 +8,7 @@ I'm passionate about tech, learning, and building cool things.
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on:  **Safe Walk** - location tracker and safety web application.
+- 🔭 I’m currently working on:  **Smart-Mail-Assistant** .
 - 💬 Ask me about: **Java, Python, Git**, and anything tech-related
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/)
 
@@ -16,7 +16,6 @@ I'm passionate about tech, learning, and building cool things.
 
 ### 📱 Connect with Me
 
-### 📱 Connect with Me
 
 <p align="left">
 

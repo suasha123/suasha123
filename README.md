@@ -2,6 +2,9 @@
 
 I'm passionate about tech, learning, and building cool things.
 
+Know me : 
+![](https://suryasite.vercel.app/)
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=suasha123)

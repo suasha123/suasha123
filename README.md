@@ -3,7 +3,7 @@
 I'm passionate about tech, learning, and building cool things.
 
 Know me : 
-![](https://suryasite.vercel.app/)
+<a href="https://suryasite.vercel.app/"> </a>
 
 ---
 

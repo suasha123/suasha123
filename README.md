@@ -2,9 +2,6 @@
 
 I'm passionate about tech, learning, and building cool things.
 
-Know me : 
-<a href="https://suryasite.vercel.app/"> </a>
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=suasha123)
@@ -14,7 +11,8 @@ Know me :
 - 🔭 I’m currently working on:  **Smart-Mail-Assistant** .
 - 💬 Ask me about: **Java, Python, Git**, and anything tech-related
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-pratap-singh-b2a48a249/)
-
+ Know me : 
+<a href="https://suryasite.vercel.app/"> </a>
 ---
 
 ### 📱 Connect with Me
